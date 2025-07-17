@@ -17,3 +17,9 @@ __pycache__/
 
 # Logs
 *.log
+
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
